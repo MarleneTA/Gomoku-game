@@ -1,0 +1,4 @@
+Lenny     5      4
+Marlene   1      5     
+Ayaoh     3      7     
+Syd       4      0
